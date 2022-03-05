@@ -11,7 +11,7 @@ node
     {
         sh "${mavenHome}/bin/mvn clean package"
     }
-    
+    /*
     stage ('Execute Code Quality Report')
     {
         sh "${mavenHome}/bin/mvn clean sonar:sonar"
@@ -34,7 +34,7 @@ Thanks & Regard
 Quadri Muzammil
 9922179697''', cc: '', from: '', replyTo: '', subject: 'Build over!', to: 'quadri.muzammil999@gmail.com'
 }
-
+*/
 
 
 
