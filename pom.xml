@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.VE</groupId>
-	<artifactId>maven-web-application-milling-operation</artifactId>
+	<artifactId>maven-web-application-Drilling-operation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	
@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://52.66.244.162:9980/quadrimuzammil/</sonar.host.url>
+		<sonar.host.url>http://3.110.123.99:9980/quadrimuzammil/</sonar.host.url>
                 <sonar.login>d73000ae6ef3a8608bec17576c2e1d87ff38ec97</sonar.login>
 		<!-- 
                 <sonar.login>admin</sonar.login>
@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Vivek Engineering Releases Nexus Repository</name>
-	      <url>http://3.109.214.178:9980/quadrimuzammil/repository/flipkart-releases/</url>
+	      <url>http://13.235.254.136:9980/quadrimuzammil/repository/flipkart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Vivek Engineering Snapshot Nexus Repository </name>
-	      <url>http://3.109.214.178:9980/quadrimuzammil/repository/flipkart-snapshot/</url>
+	      <url>http://13.235.254.136:9980/quadrimuzammil/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
