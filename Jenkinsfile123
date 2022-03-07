@@ -1,4 +1,4 @@
-node
+node ('node001')
 {
     def mavenHome = tool name: "maven 3.8.4"
     stage ('code_checking')
