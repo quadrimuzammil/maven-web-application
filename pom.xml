@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.110.123.99:9980/quadrimuzammil/</sonar.host.url>
-                <sonar.login>d73000ae6ef3a8608bec17576c2e1d87ff38ec97</sonar.login>
+		<sonar.host.url>http://13.233.148.44:9000/profiles</sonar.host.url>
+                <sonar.login>1653af9071e42535f2b02777889e7130725c6e9a</sonar.login>
 		<!-- 
                 <sonar.login>admin</sonar.login>
 		<sonar.password>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</sonar.password>
