@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.233.148.44:9000/profiles</sonar.host.url>
+		<sonar.host.url>http://65.0.129.56:9000/projects</sonar.host.url>
                 <sonar.login>1653af9071e42535f2b02777889e7130725c6e9a</sonar.login>
 		<!-- 
                 <sonar.login>admin</sonar.login>
@@ -150,7 +150,13 @@
 				</configuration>
 			</plugin>
 			
-</plugins>
+			<plugin>
+                             <groupId>org.codehaus.mojo</groupId>
+                              <artifactId>sonar-maven-plugin</artifactId>
+                             <version>3.0.2</version>
+                        </plugin>
+			
+	</plugins>
 	</build>
 	
 	
