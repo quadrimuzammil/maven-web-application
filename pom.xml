@@ -19,7 +19,7 @@
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
-		<junit.version>4.11</junit.vehttp://3.110.86.8:9000/projectsrsion>
+		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://3.110.86.8:9000/projects</sonar.host.url>
                 <sonar.login>f09e228e5c12601942ea474ecff24f6259697385</sonar.login>
