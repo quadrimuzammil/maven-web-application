@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Date- 02 mar 2022 Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Ya Allah Meri madad farma </h1>
+<h1 align="center">Mujhko duniya aur aqirat me ruswayese bacha</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
