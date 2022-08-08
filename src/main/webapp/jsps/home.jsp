@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Rabbi zidni ilman </h1>
+<h1 align="center">Rabbi zidni ilma </h1>
 <h1 align="center">Nek logo me shamil farma</h1>
 <hr>
 <br>
