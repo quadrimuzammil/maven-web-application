@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Ya Allah Meri madad farma </h1>
+<h1 align="center">Rabbi zidni ilma </h1>
 <h1 align="center">Mujhko duniya aur aqirat me ruswayese bacha</h1>
 <hr>
 <br>
