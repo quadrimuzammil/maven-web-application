@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Rabbi zidni ilma </h1>
-<h1 align="center">Nek logo me shamil farma</h1>
+<h1 align="center">Nek insaano me shamil farma</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
