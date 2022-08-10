@@ -34,7 +34,7 @@
 	<repositories>
 	       <repository>
         	    <id>nexus</id>
-	           <url>http://3.6.94.85:8081/repository/Upload-drawing/</url>
+	           <url>http://3.6.94.85:8081/repository/uploar_Jar_File/</url>
 	       </repository>
 	</repositories>
 	<dependencies>
