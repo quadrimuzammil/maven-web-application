@@ -39,9 +39,9 @@
 	</repositories>
 	<dependencies>
 		<dependency>
-                    <groupId>zeal</groupId>
-                    <artifactId>drawing</artifactId>
-                    <version>1.0.0</version>
+                     <groupId>com.ZI</groupId>
+                     <artifactId>mail</artifactId>
+                     <version>1.0.0</version>
                 </dependency>
 		
 		<dependency>
