@@ -34,7 +34,7 @@
 	<repositories>
 	       <repository>
         	    <id>nexus</id>
-	           <url>http://43.205.120.5:8081/repository/Maven-Group-Repo/</url>
+	           <url>http://43.205.120.5:8081/repository/Nexus-Grp/</url>
 	       </repository>
 	</repositories>
 	<dependencies>
