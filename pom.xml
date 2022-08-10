@@ -34,12 +34,12 @@
 	<repositories>
 	       <repository>
         	    <id>nexus</id>
-	           <url>http://3.6.94.85:8081/repository/uploar_Jar_File/</url>
+	           <url>http://3.6.94.85:8081/repository/Upload-Jar/</url>
 	       </repository>
 	</repositories>
 	<dependencies>
 		<dependency>
-                     <groupId>com.ZI</groupId>
+                     <groupId>com.psg</groupId>
                      <artifactId>mail</artifactId>
                      <version>1.0.0</version>
                 </dependency>
