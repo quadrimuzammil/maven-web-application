@@ -34,7 +34,7 @@
 	<repositories>
 	       <repository>
         	    <id>nexus</id>
-	           <url>http://65.0.203.192:8081/repository/remote-repo</url>
+	           <url>http://43.205.120.5:8081/repository/Maven-Group-Repo/</url>
 	       </repository>
 	</repositories>
 	<dependencies>
@@ -102,18 +102,19 @@
        -->		
 	</dependencies>
 	
+
 	<distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.203.192:8081/repository/maven-releases/</url>
+	      <url>http://43.205.120.5:8081/repository/Maven-Grp/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.0.203.192:8081/repository/maven-snapshots/</url>
+	      <url>http://43.205.120.5:8081/repository/Maven-Grp/</url>
 	    </snapshotRepository>
 	 
 	</distributionManagement>
