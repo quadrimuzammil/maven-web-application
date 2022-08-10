@@ -34,10 +34,16 @@
 	<repositories>
 	       <repository>
         	    <id>nexus</id>
-	           <url>http://43.205.120.5:8081/repository/Nexus-Grp/</url>
+	           <url>http://3.6.94.85:8081/repository/Upload-drawing/</url>
 	       </repository>
 	</repositories>
 	<dependencies>
+		<dependency>
+                    <groupId>zeal</groupId>
+                   <artifactId>drawing</artifactId>
+                   <version>1.0.0</version>
+                  <type>war</type>
+               </dependency>
 		
 		<dependency>
 			<groupId>org.json</groupId>
