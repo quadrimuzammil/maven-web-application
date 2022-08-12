@@ -31,13 +31,15 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
+   <!--
 	<repositories>
 	       <repository>
         	    <id>nexus</id>
 	           <url>http://3.6.94.85:8081/repository/Upload-Jar/</url>
 	       </repository>
 	</repositories>
-	<dependencies>
+    -->	
+        <dependencies>
 		<dependency>
                      <groupId>com.psg</groupId>
                      <artifactId>mail</artifactId>
