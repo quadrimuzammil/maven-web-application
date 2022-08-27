@@ -1,0 +1,11 @@
+version: '3.2'
+services:
+  mavnewebapp:
+    image:
+    ports:
+    -  9090:8080
+    network:
+    -  mavenbridge
+networks:
+  mavenbridge:
+    driver: bridge
