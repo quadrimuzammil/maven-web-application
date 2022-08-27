@@ -4,7 +4,7 @@ services:
     image:
     ports:
     -  9090:8080
-    network:
+    networks:
     -  mavenbridge
 networks:
   mavenbridge:
