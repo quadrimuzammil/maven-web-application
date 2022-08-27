@@ -1,7 +1,7 @@
 version: '3.2'
 services:
   mavnewebapp:
-    image: quadrimuzammil/mavenwebapp
+    image: quadrimuzammil/mavenwebapp:${BUILD_NUMBER}
     ports:
     -  9090:8080
     networks:
